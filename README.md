@@ -1,90 +1,77 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# Livestock Health Hub 🐄🐓🐐
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+A **responsive multipage website** designed to educate farmers and livestock owners about common animal diseases, prevention strategies, and available resources.  
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+The hub provides **alerts, disease guides, prevention tips, downloadable resources, and contact information** in a clean and user-friendly design.  
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## 🌐 Pages
 
-Using your plan, begin building:
+- **Home** 🏠  
+  Overview of the hub, featured disease alerts, quick links, news/updates, and a call-to-action.  
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+- **Diseases** 🐄🐓🐑  
+  Categorized disease information for cattle, poultry, goats, and sheep with search functionality.  
 
-Each page should:
+- **Prevention** 💉  
+  Practical hygiene, vaccination schedules, and biosecurity measures.  
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+- **Resources** 📚  
+  Downloadable guides, government advisories, and external veterinary links.  
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
-
----
-
-## 🛠️🚀 Part 3: Best Practices for Code Organization
-
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+- **Contact** 📩  
+  A form for inquiries and veterinary contact details.  
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+## 🛠️ Technologies
 
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+- **HTML5** → semantic structure  
+- **CSS3** → responsive design & styling  
+- **JavaScript (Vanilla JS)** → form validation, search, and UI interactivity  
 
 ---
 
-## Deliverables
+## 📁 Project Structure
 
-1. A GitHub repository containing:
+project-root/
+│
+├── css/
+│ └── styles.css # Main stylesheet
+│
+├── js/
+│ └── script.js # Interactive functionality
+│
+├── images/ # Images and icons
+│ ├── livestock.jpg
+│ └── vaccine-icon.svg
+│
+├── index.html # Homepage
+├── diseases.html # Disease information
+├── prevention.html # Prevention strategies
+├── resources.html # Resource links & downloads
+├── contact.html # Contact form
+└── README.md # Project documentation
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+## ✨ Features
+
+- 📱 **Fully responsive design** for mobile, tablet, and desktop.  
+- ⚠️ **Featured alerts** section for real-time outbreak updates.  
+- 🔎 **Search functionality** on the Diseases page.  
+- 💡 **Quick links & cards** for easy navigation.  
+- 📩 **Contact form** with validation and confirmation messages.  
 
 ---
 
-## Outcome
+## 🚀 Live Site
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+[👉 Visit Livestock Health Hub](https://your-deployment-url.com)  
+
+---
+
+## 📌 Future Enhancements (Optional)
+
+- 🌍 Multi-language support (English, Swahili, French).  
+- 🗺️ Interactive disease outbreak map.  
+- 📊 Farmer feedback and reporting system.  
