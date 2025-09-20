@@ -33,27 +33,6 @@ The hub provides **alerts, disease guides, prevention tips, downloadable resourc
 
 ---
 
-## 📁 Project Structure
-
-project-root/
-│
-├── css/
-│ └── styles.css # Main stylesheet
-│
-├── js/
-│ └── script.js # Interactive functionality
-│
-├── images/ # Images and icons
-│ ├── livestock.jpg
-│ └── vaccine-icon.svg
-│
-├── index.html # Homepage
-├── diseases.html # Disease information
-├── prevention.html # Prevention strategies
-├── resources.html # Resource links & downloads
-├── contact.html # Contact form
-└── README.md # Project documentation
-
 ## ✨ Features
 
 - 📱 **Fully responsive design** for mobile, tablet, and desktop.  
@@ -66,7 +45,7 @@ project-root/
 
 ## 🚀 Live Site
 
-[👉 Visit Livestock Health Hub](https://your-deployment-url.com)  
+[👉 Visit Livestock Health Hub](https://livestock-health-project.vercel.app/)  
 
 ---
 
